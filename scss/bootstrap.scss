@@ -1,0 +1,12 @@
+// --------------------------------------------------------------------------
+// Style Sass/Scss
+// dans ce fichiers nous allons modifier certaines variables de Bootstrap
+// --------------------------------------------------------------------------
+
+
+// -- BOOTSTRAP -------------------------------------------------------------
+// tout à la fin, j'importe tout le code de Bootstrap
+// qui sera re-compilé en utilisant les variables modifiées ci-dessus
+@import "bootstrap/bootstrap.scss";
+
+// fin

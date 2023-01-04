@@ -1,0 +1,16 @@
+.logo-mmi{
+    width: 245px;
+    height: 100px;
+}
+
+.bi-check{
+    font-size: 10px;
+}
+
+.bi-envelope, .bi-graph-up, .bi-person, .bi-pencil, .bi-columns, .bi-gear{
+    font-size: 29px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+

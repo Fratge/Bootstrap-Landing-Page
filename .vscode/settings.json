@@ -1,0 +1,14 @@
+{
+    // ignore the bootstrap folder, it will only compile our own scss file(s)
+    "liveSassCompile.settings.excludeList": ["**/bootstrap/**"],
+    // output/format rules
+    // it will be saved as one unique CSS file in the CSS folder
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css"
+      }
+    ]
+  }
